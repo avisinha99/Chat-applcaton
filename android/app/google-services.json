@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "346720522456",
+    "project_id": "flash-chat-75ffd",
+    "storage_bucket": "flash-chat-75ffd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:346720522456:android:2c71e17ce57d877125c7ad",
+        "android_client_info": {
+          "package_name": "co.avisinha.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "346720522456-r9u35fns5g3t0mut61ur5b3a32s1jqs5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlHcUTew3rC0mi60AnEvYtp1DUXW7R9_o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "346720522456-r9u35fns5g3t0mut61ur5b3a32s1jqs5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
